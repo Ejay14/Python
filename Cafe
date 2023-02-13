@@ -1,0 +1,9 @@
+#Author: Jabulani Mavodze
+#Task L1T20
+#Compulsory Task 1
+#Date :01 March 2022
+
+menu = ["Jelly babies",]
+stock = {}
+price = {}
+
